@@ -1,6 +1,6 @@
-#PyQt5 samples
+# PyQt5 samples
 
-###Simple QT project to create templates repository
+### Simple QT project to create templates repository
 
 `Used PyQt 5.15.2 & Python 3.8` 
 
