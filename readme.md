@@ -8,13 +8,10 @@
 ## Basic projects
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/grigorevmp/PyQt-Sandbox/blob/master/imagesForGit/img_1.png">
+  <img  src="./imagesForGit/img_1.png">
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="./imagesForGit/img_1.png">
-</p>
-### Project 1: Hello world
+### Project 1: Helloworld
 
 - Basic Projects / helloWorld.py
 
