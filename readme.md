@@ -31,6 +31,24 @@
 - Basic Projects / loaderPy.py
 - resources/ui_sample_3.py
 
----
+### Project 4a: Thread
 
+- Basic Projects / thread.py
+
+### Project 4b: Signal through threads
+
+- Basic Projects / threads.py
+
+### Project 4с: Queue of signals to Thread
+
+- Basic Projects / queueSample.py
+
+### Project 4d: Mutex
+
+- Basic Projects / mutex.py
+
+### Project 5: Splash screen
+
+- Basic Projects / splash.py
+---
 `Last improvements: 16.12.2000` 
