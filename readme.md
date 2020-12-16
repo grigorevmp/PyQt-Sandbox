@@ -7,6 +7,8 @@
 ---
 ## Basic projects
 
+!["Basic Porjects"](https://github.com/grigorevmp/PyQt-Sandbox/blob/master/imagesForGit/img_1.png)
+
 ### Project 1: Hello world
 
 - Basic Projects / helloWorld.py
