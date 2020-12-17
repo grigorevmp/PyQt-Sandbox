@@ -1,6 +1,6 @@
-# PyQt5 samples
+# PyQt5 mini-templates
 
-### Simple QT project to create templates repository
+### Simple QT projects to show QT widgets
 
 `Used PyQt 5.15.2 & Python 3.8` 
 
@@ -51,7 +51,7 @@
 
 - Basic Projects / splash.py
 
-## Handlers projects
+## Handlers 
 
 ### Project 1: Signal generator
 
@@ -69,6 +69,24 @@
 
 - Handlers Project / inputFocusExtra.py
 
+## Components
+
+### Project 1: Form layout sample
+
+- Components / formLayout.py
+
+### Project 2: Tabs
+
+- Components / tabWidget.py
+
+### Project 3: Toolbox
+
+- Components / toolBox.py
+
+### Project 4: Splitter layout (Horizontal/Vertical)
+
+- Components / splitter.py
+
 
 ---
-`Last improvements: 16.12.2000` 
+`Last improvements: 17.12.2000` 
