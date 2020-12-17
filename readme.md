@@ -50,5 +50,25 @@
 ### Project 5: Splash screen
 
 - Basic Projects / splash.py
+
+## Handlers projects
+
+### Project 1: Signal generator
+
+- Handlers Project / signalGenerator.py
+
+### Project 2: Simple timer
+
+- Handlers Project / simpleTimer.py
+
+### Project 3a: Input focus
+
+- Handlers Project / inputFocus.py
+
+### Project 3b: Input focus + hotkeys
+
+- Handlers Project / inputFocusExtra.py
+
+
 ---
 `Last improvements: 16.12.2000` 
