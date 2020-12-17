@@ -115,5 +115,13 @@
 
 - Components / standartItem.py
 
+### Project 6: Delegates
+
+<p align="center">
+  <img  src="./imagesForGit/delegates.png">
+</p>
+
+- Components / delegates.py
+
 ---
 `Last improvements: 17.12.2000` 
