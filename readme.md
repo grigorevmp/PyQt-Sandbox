@@ -63,6 +63,10 @@
 
 ### Project 3a: Input focus
 
+<p align="center">
+  <img  src="./imagesForGit/inputFocusExtra.png">
+</p>
+
 - Handlers Project / inputFocus.py
 
 ### Project 3b: Input focus + hotkeys
@@ -73,17 +77,33 @@
 
 ### Project 1: Form layout sample
 
+<p align="center">
+  <img  src="./imagesForGit/qFormLayout.png">
+</p>
+
 - Components / formLayout.py
 
 ### Project 2: Tabs
+
+<p align="center">
+  <img  src="./imagesForGit/tabWidget.png">
+</p>
 
 - Components / tabWidget.py
 
 ### Project 3: Toolbox
 
+<p align="center">
+  <img  src="./imagesForGit/qToolBox.png">
+</p>
+
 - Components / toolBox.py
 
 ### Project 4: Splitter layout (Horizontal/Vertical)
+
+<p align="center">
+  <img  src="./imagesForGit/splitters.png">
+</p>
 
 - Components / splitter.py
 
