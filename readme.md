@@ -5,6 +5,15 @@
 `Used PyQt 5.15.2 & Python 3.8` 
 
 ---
+
+## Sudoku project
+
+<p align="center">
+  <img  src="./imagesForGit/sudoku.png">
+</p>
+
+- Sudoku / sudoku.py
+
 ## Basic projects
 
 <p align="center">
@@ -127,11 +136,16 @@
 
 ### Project 1: Sql template
 
-<p align="center">
-  <img  src="./imagesForGit/sqlTmp.png">
-</p>
-
 - Sql / sqlTmp.py
 
+## Graphics
+
+### Project 1: Brushes
+
+<p align="center">
+  <img  src="./imagesForGit/brush.png">
+</p>
+
+- Graphics / brush.py
 ---
-`Last improvements: 17.12.2000` 
+`Last improvements: 18.12.2000` 
